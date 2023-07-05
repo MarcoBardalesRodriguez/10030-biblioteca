@@ -1,0 +1,29 @@
+{
+  "name": "10030-biblioteca",
+  "version": "1.0.0",
+  "description": "Sistema para biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoBardalesRodriguez/10030-biblioteca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoBardalesRodriguez/10030-biblioteca/issues"
+  },
+  "homepage": "https://github.com/MarcoBardalesRodriguez/10030-biblioteca#readme",
+  "dependencies": {
+    "sqlite": "^4.2.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "electron": "^25.2.0",
+    "electron-packager": "^17.1.1",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
